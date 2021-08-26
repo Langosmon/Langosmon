@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Langosmon
+- 👋 Hi, I’m @Langosmon I know spanish, english and a little bit of japanese
 - 👀 I’m interested in atmosphere-ocean dynamics
 - 🌱 I’m currently in my last year of physycs undergrad studies
 - 💞️ I’m looking to collaborate on ...

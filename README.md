@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Langosmon
 - 👀 I’m interested in atmosphere-ocean dynamics
-- 🌱 I’m currently in my last year of physycs undergrad studie
+- 🌱 I’m currently in my last year of physycs undergrad studies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

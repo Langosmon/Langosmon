@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Langosmon I know spanish, english and a little bit of japanese
-- 👀 I’m interested in atmosphere-ocean dynamics
-- 🌱 I’m currently in my last year of physycs undergrad studies
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Jose Alfredo Ocegueda (@Langosmon), a Ph.D. student in atmospheric sciences at Purdue University
+- My interest are on tropical cyclones, specially landfall.
+- contact me at jocegue@purdue.edu
 
 <!---
 Langosmon/Langosmon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

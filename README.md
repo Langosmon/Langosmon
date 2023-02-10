@@ -1,5 +1,5 @@
 - Hi, I’m Jose Alfredo Ocegueda (@Langosmon), a Ph.D. student in atmospheric sciences at Purdue University
-- My interest are on tropical cyclones, specially landfall.
+- My interest are on tropical meteorology, specially in tropical cyclones.
 - contact me at jocegue@purdue.edu
 
 <!---
